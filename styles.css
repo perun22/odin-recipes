@@ -1,8 +1,12 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #d8d9f0;
+   
     line-height: 1.5rem;
     box-sizing: border-box;
+}
+
+body {
+    background-color: #d8d9f0;
 }
 
 .container {
@@ -11,6 +15,7 @@
     padding: 1rem 2rem;
     box-shadow: 2px 2px 5px rgb(60, 60, 209, .6);
     border-radius: 12px;
+    background-color:#fbfcf8;
 }
 
 a {
