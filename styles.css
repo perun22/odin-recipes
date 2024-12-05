@@ -6,9 +6,11 @@
 }
 
 .container {
-    margin: 0 auto;
+    margin: 5rem auto;
     max-width: fit-content;
-    padding-top: 3rem;
+    padding: 1rem 2rem;
+    box-shadow: 2px 2px 5px rgb(60, 60, 209, .6);
+    border-radius: 12px;
 }
 
 a {
@@ -20,7 +22,7 @@ a:hover {
     color: red;
 }
 .recipe-list {
-    list-style: none;
+    list-style:georgian;
 }
 h1 {
     text-transform: uppercase;
